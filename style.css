@@ -1,0 +1,37 @@
+body{
+	background-image: url("2.jpg");
+
+ }
+h1{
+   color: #f32828;
+   display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+  font-family: Arial Black;
+
+}
+#phad{
+	padding-left: 70px;
+	padding-right: 70px;
+	text-align: center;
+	background-color: #f32828;
+	color: black;
+
+}
+div{
+	display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial Black;
+  
+}
+input{
+	-webkit-box-shadow: 97px 20px 43px -28px rgba(247,15,15,0.58);
+-moz-box-shadow: 97px 20px 43px -28px rgba(247,15,15,0.58);
+box-shadow: 97px 20px 43px -28px rgba(247,15,15,0.58);
+	padding-left: 70px;
+	padding-right: 70px;
+}
